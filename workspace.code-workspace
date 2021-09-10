@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "ThermalBox",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"limits": "cpp",
+			"ranges": "cpp",
+			"tuple": "cpp",
+			"stdint.h": "c",
+			"cmath": "cpp",
+			"atomic": "cpp",
+			"cstdint": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "esp32_thermal_cam"
+	}
+}
